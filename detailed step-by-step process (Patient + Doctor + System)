@@ -1,0 +1,59 @@
+1. Patient Registration
+   - Patient creates an account with basic details.
+
+2. Doctor Registration & Verification
+   - Doctor registers and gets verified for secure access.
+
+3. Login Process
+   - Both patient and doctor log in using secure authentication.
+
+4. Patient Record Creation
+   - A unique digital record is created for each patient.
+
+5. Data Entry (Patient Side)
+   - Patient enters mood logs, daily activities, symptoms, and notes.
+
+6. Record Update
+   - New entries are added to the patient’s record regularly.
+
+7. Data Encryption
+   - All records and entries are encrypted before storage.
+
+8. Secure Database Storage
+   - Encrypted data is stored using a zero-knowledge system.
+
+9. Enquiry Request (Doctor Side)
+   - Doctor sends a request to access a patient’s record.
+
+10. Permission Control (Patient Side)
+    - Patient approves or denies doctor’s access request.
+
+11. Record Access
+    - Upon approval, doctor can view patient history and entries.
+
+12. Risk Analysis Engine
+    - System analyzes records to detect stress or abnormal patterns.
+
+13. Alert Generation
+    - Alerts are triggered for high-risk or unusual conditions.
+
+14. Monitoring & Evaluation (Doctor)
+    - Doctor reviews patient data and system-generated insights.
+
+15. Feedback & Recommendation
+    - Doctor provides suggestions, guidance, or treatment advice.
+
+16. Audit Logging
+    - All actions (entry, access, enquiry) are logged securely.
+
+17. Data Modification Control
+    - Only authorized updates are allowed; all changes are tracked.
+
+18. Continuous Monitoring
+    - System continuously updates analysis with new entries.
+
+19. Patient Control Panel
+    - Patient can view records, manage permissions, and track activity.
+
+20. Secure Logout
+    - Session ends safely, ensuring data protection.
